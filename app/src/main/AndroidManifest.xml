@@ -17,7 +17,7 @@
             </intent-filter>
         </activity>
         <activity
-            android:name=".CreateAliasActivity"
+            android:name=".createalias.CreateAliasActivity"
             android:label="Create Alias"
             android:parentActivityName=".MainActivity"
             android:theme="@style/AppTheme"/>

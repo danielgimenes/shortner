@@ -37,4 +37,5 @@
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/create_alias_button"
         app:layout_constraintVertical_bias="0.023"/>
+
 </android.support.constraint.ConstraintLayout>

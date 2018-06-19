@@ -4,6 +4,7 @@ import android.app.Activity
 import android.content.Intent
 import android.support.v7.app.AppCompatActivity
 import android.os.Bundle
+import com.dgimenes.shortner.createalias.CreateAliasActivity
 import kotlinx.android.synthetic.main.activity_main.*
 import kotlin.reflect.KClass
 
