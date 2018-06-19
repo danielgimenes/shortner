@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Shortner</string>
+    <string name="create_alias_button_text">Create Alias</string>
+    <string name="get_original_link_button_text">Get Original Link</string>
+</resources>
